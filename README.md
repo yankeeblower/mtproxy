@@ -16,10 +16,10 @@ Telegram群组：https://t.me/EllerCN
 
 ```bash
 mkdir /home/mtproxy && cd /home/mtproxy
-curl -s -o mtproxy.sh https://raw.githubusercontent.com/ellermister/mtproxy/master/mtproxy.sh && chmod +x mtproxy.sh && bash mtproxy.sh
+curl -s -o mtproxy.sh https://raw.githubusercontent.com/yankeeblower/mtproxy/master/mtproxy.sh && chmod +x mtproxy.sh && bash mtproxy.sh
 ```
 
- ![mtproxy.sh](https://raw.githubusercontent.com/ellermister/mtproxy/master/mtproxy.jpg)
+ ![mtproxy.sh](https://raw.githubusercontent.com/yankeeblower/mtproxy/master/mtproxy.jpg)
 
 
 
